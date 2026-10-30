@@ -1,0 +1,19 @@
+Aim:
+To write a Python program to perform various string operations such as finding length, changing case, accessing characters, finding words, slicing, replacing, concatenating, checking substrings, and stripping spaces.
+
+Algorithm:
+1. Start the program.
+2. Create a string s = "My Name Is Shruti".
+3. Display the original string.
+4. Find and display the length of the string using len().
+5. Convert the string into uppercase using upper().
+6. Convert the string into lowercase using lower().
+7. Access and display a character at a specific index using indexing.
+8. Find the position of "Shruti" using find().
+9. Extract a portion of the string using slicing.
+10. Replace "Shruti" with "Celific" using replace().
+11. Check whether "Name" exists in the string using the in operator.
+12.Concatenate another string using the + operator.
+13. Create another string containing extra spaces.
+14. Remove the leading and trailing spaces using strip().
+15. Stop the program.
